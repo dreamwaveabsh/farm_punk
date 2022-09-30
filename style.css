@@ -128,7 +128,7 @@ img {
   font-family: "Poppins", sans-serif;
   color: white;
   min-height: 100vh;
-  background-color: black;
+  /* background-color: black; */
   position: relative;
   overflow: hidden;
 }
